@@ -9,3 +9,5 @@
   - https://yhmanju.pages.dev/
   - https://yhmanju.surge.sh/
   - https://yinghuamanju.pages.dev/
+  - https://sakuramanju.pages.dev/
+  - https://yhmanju.beacon.host/
