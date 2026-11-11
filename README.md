@@ -8,3 +8,4 @@
   - https://yhmanju.codeberg.page/
   - https://yhmanju.pages.dev/
   - https://yhmanju.surge.sh/
+  - https://yinghuamanju.pages.dev/
