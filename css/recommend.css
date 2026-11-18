@@ -16,3 +16,12 @@
 .today-pick-actions{display:flex;flex-direction:column;gap:10px;align-items:stretch}
 .today-pick-note{grid-column:1/-1;margin:0;color:#a39bba;font-size:14px}
 @media(max-width:680px){.today-pick{padding:0 12px;margin:12px}.today-pick-inner{grid-template-columns:1fr;gap:12px;padding:14px}.today-pick-cover{width:100%;height:auto;aspect-ratio:16/9}.today-pick-body h2{font-size:20px}.today-pick-kicker{font-size:14px}}
+.recommend-guide-links{max-width:1800px;margin:0 auto;padding:0 0 24px;color:#cfc8f7;font-size:16px;line-height:1.8}
+.recommend-guide-links a{color:#d5c8fa;border-bottom:1px solid #77628e}
+.recommend-guide-links a:hover{color:#fff;background:#7349ac;border-color:#7349ac}
+.guide-page .guide-block{margin:28px 0}
+.guide-page h2{margin:0 0 16px;font-size:26px;color:#fff;font-weight:500}
+.guide-steps,.guide-list{color:#cfc8f7;font-size:18px;line-height:1.9;padding-left:1.4em}
+.guide-steps li,.guide-list li{margin:10px 0}
+.guide-list a{color:#d5c8fa;border-bottom:1px solid #77628e}
+@media(max-width:680px){.recommend-guide-links{padding:0 18px 18px;font-size:13px}.guide-page h2{font-size:20px}.guide-steps,.guide-list{font-size:14px}}
