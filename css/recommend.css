@@ -19,6 +19,12 @@
 .recommend-guide-links{max-width:1800px;margin:0 auto;padding:0 0 24px;color:#cfc8f7;font-size:16px;line-height:1.8}
 .recommend-guide-links a{color:#d5c8fa;border-bottom:1px solid #77628e}
 .recommend-guide-links a:hover{color:#fff;background:#7349ac;border-color:#7349ac}
+.friend-links{max-width:1800px;margin:12px auto 0;padding:8px 0 28px;color:#cfc8f7;font-size:16px;line-height:1.8}
+.friend-links h2{margin:0 0 12px;font-size:20px;color:#fff;font-weight:500}
+.friend-links ul{margin:0;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:12px 24px}
+.friend-links a{color:#d5c8fa;border-bottom:1px solid #77628e}
+.friend-links a:hover{color:#fff;background:#7349ac;border-color:#7349ac}
+@media(max-width:680px){.friend-links{padding:8px 18px 18px;font-size:13px}.friend-links h2{font-size:16px}}
 .guide-page .guide-block{margin:28px 0}
 .guide-page h2{margin:0 0 16px;font-size:26px;color:#fff;font-weight:500}
 .guide-steps,.guide-list{color:#cfc8f7;font-size:18px;line-height:1.9;padding-left:1.4em}
