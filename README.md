@@ -12,10 +12,14 @@
   - https://yinghuamanju.pages.dev/
   - https://sakuramanju.pages.dev/
   - https://yhmanju.beacon.host/
+  - https://yhmanju-guide.pages.dev/
+  - https://yinghua-manju.pages.dev/
+  - https://yhmj.pages.dev/
 
 ## 友情链接
 
 - [黄果短剧](https://huangguomax.com/)
+- [黄果短剧](https://huangguoduanju.net/)
 - [红豆短剧](https://hongdoudrama.com/)
 - [红豆应用](https://hongdouapp.com/)
 - [樱花漫剧](https://yhmanju.com/)

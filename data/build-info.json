@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:17:04+08:00",
+  "generated_at": "2026-11-19T15:43:15+08:00",
   "timezone": "Asia/Shanghai",
   "drama_count": 618,
   "cover_count": 618,
@@ -709,10 +709,10 @@
     "部分加密导航图标无公开免费版本，改用官网自带通用菜单 SVG。",
     "已下架或不在本次抓取中的剧目会保留详情页和封面，总数只增不减。",
     "每部详情页都提供官网 /short-video-player/ 观看入口。",
-    "指向 yhmanju.com 的外链均带 utm_source（按发布主机区分，如 yhmanju_codeberg / yhmanju_netlify / yhmanju_pagesdev / yhmanju_gitlab / yhmanju_surge / yhmanju_github / yhmanju_yinghuamanju / yhmanju_sakuramanju / yhmanju_beacon）&utm_medium=referral&utm_campaign=recommend_site。",
+    "指向 yhmanju.com 的外链均带 utm_source（按发布主机区分，如 yhmanju_codeberg / yhmanju_netlify / yhmanju_pagesdev / yhmanju_gitlab / yhmanju_surge / yhmanju_github / yhmanju_yinghuamanju / yhmanju_sakuramanju / yhmanju_beacon / yhmanju_guide / yhmanju_yinghua_manju / yhmanju_yhmj）&utm_medium=referral&utm_campaign=recommend_site。",
     "站点根目录放置 IndexNow 密钥文件，部署后可由 submit_indexnow.py 提交 sitemap。",
     "未执行浏览器像素级截图比对，不承诺已达到逐像素一致。",
     "数据仅是采集样本，不是官网完整剧库。",
-    "全站页脚与首页均有「友情链接」：黄果短剧、红豆短剧、红豆应用、樱花漫剧、51动漫；普通 a href，不加 nofollow。"
+    "全站页脚与首页均有「友情链接」：黄果短剧（https://huangguomax.com/ 与 https://huangguoduanju.net/）、红豆短剧、红豆应用、樱花漫剧、51动漫；普通 a href，不加 nofollow。"
   ]
 }
