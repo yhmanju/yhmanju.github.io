@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:43:15+08:00",
+  "generated_at": "2026-11-20T09:22:06+08:00",
   "timezone": "Asia/Shanghai",
   "drama_count": 618,
   "cover_count": 618,
@@ -16,6 +16,7 @@
     "/complete/modernend/page/3",
     "/complete/page/2",
     "/complete/page/3",
+    "/complete/page/4",
     "/complete/rebirthend",
     "/complete/rebirthend/page/2",
     "/complete/rebirthend/page/3",
@@ -28,6 +29,7 @@
     "/complete/xuanhuanend",
     "/complete/xuanhuanend/page/2",
     "/complete/xuanhuanend/page/3",
+    "/complete/xuanhuanend/page/4",
     "/drama",
     "/drama/dailynew",
     "/drama/dailynew/page/2",
@@ -38,7 +40,6 @@
     "/drama/highcomplete",
     "/drama/highcomplete/page/2",
     "/drama/highcomplete/page/3",
-    "/drama/highcomplete/page/4",
     "/drama/hot",
     "/drama/hot/page/2",
     "/drama/hot/page/3",
@@ -57,10 +58,10 @@
     "/genre/fantasy",
     "/genre/fantasy/page/2",
     "/genre/fantasy/page/3",
-    "/genre/fantasy/page/4",
     "/genre/modern",
     "/genre/modern/page/2",
     "/genre/modern/page/3",
+    "/genre/modern/page/4",
     "/genre/page/2",
     "/genre/page/3",
     "/genre/rebirth",
@@ -85,7 +86,6 @@
     "/rankings/collectrank",
     "/rankings/collectrank/page/2",
     "/rankings/collectrank/page/3",
-    "/rankings/collectrank/page/4",
     "/rankings/hotrank",
     "/rankings/hotrank/page/2",
     "/rankings/hotrank/page/3",
@@ -95,14 +95,11 @@
     "/rankings/newrank",
     "/rankings/newrank/page/2",
     "/rankings/newrank/page/3",
-    "/rankings/newrank/page/4",
     "/rankings/page/2",
     "/rankings/page/3",
-    "/rankings/page/4",
     "/rankings/ratingrank",
     "/rankings/ratingrank/page/2",
     "/rankings/ratingrank/page/3",
-    "/rankings/ratingrank/page/4",
     "/search",
     "/updates",
     "/updates/dailyupdate",
@@ -136,17 +133,17 @@
     {
       "url": "https://yhmanju.com/drama?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结精选短剧 - 热门完整剧集 | 樱花漫剧",
-      "linked_dramas": 20
+      "linked_dramas": 23
     },
     {
       "url": "https://yhmanju.com/drama/dailynew?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "近期上新短剧 - 新剧推荐 | 樱花漫剧",
-      "linked_dramas": 24
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/drama/highcomplete?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结精选短剧 - 热门完整剧集 | 樱花漫剧",
-      "linked_dramas": 15
+      "linked_dramas": 25
     },
     {
       "url": "https://yhmanju.com/drama/serial?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -156,17 +153,17 @@
     {
       "url": "https://yhmanju.com/drama/hot?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "漫剧-热门推荐 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 15
+      "linked_dramas": 24
     },
     {
       "url": "https://yhmanju.com/rankings?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-新作榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 15
+      "linked_dramas": 23
     },
     {
       "url": "https://yhmanju.com/rankings/collectrank?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-收藏榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 15
+      "linked_dramas": 25
     },
     {
       "url": "https://yhmanju.com/rankings/hotrank?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -176,37 +173,37 @@
     {
       "url": "https://yhmanju.com/rankings/newrank?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-新作榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 23
+      "linked_dramas": 25
     },
     {
       "url": "https://yhmanju.com/rankings/ratingrank?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-好评榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 15
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/genre?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "玄幻短剧大全 - 修仙逆袭与奇幻冒险 | 樱花漫剧",
-      "linked_dramas": 26
+      "linked_dramas": 25
     },
     {
       "url": "https://yhmanju.com/genre/fantasy?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "奇幻短剧大全｜幻想冒险与奇幻故事 - 樱花漫剧",
-      "linked_dramas": 15
+      "linked_dramas": 24
     },
     {
       "url": "https://yhmanju.com/genre/modern?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "题材-现代 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 26
+      "linked_dramas": 15
     },
     {
       "url": "https://yhmanju.com/genre/rebirth?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "题材-重生 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 24
+      "linked_dramas": 15
     },
     {
       "url": "https://yhmanju.com/genre/romance?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "题材-爱情 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 25
+      "linked_dramas": 23
     },
     {
       "url": "https://yhmanju.com/genre/xianxia?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -216,22 +213,22 @@
     {
       "url": "https://yhmanju.com/genre/xuanhuan?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "玄幻短剧大全 - 修仙逆袭与奇幻冒险 | 樱花漫剧",
-      "linked_dramas": 23
+      "linked_dramas": 25
     },
     {
       "url": "https://yhmanju.com/complete?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "奇幻完结短剧全集 - 热门奇幻与穿越剧 | 樱花漫剧",
-      "linked_dramas": 26
+      "linked_dramas": 25
     },
     {
       "url": "https://yhmanju.com/complete/fantasyend?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "奇幻完结短剧全集 - 热门奇幻与穿越剧 | 樱花漫剧",
-      "linked_dramas": 25
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/complete/modernend?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结-现代完结 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 24
+      "linked_dramas": 23
     },
     {
       "url": "https://yhmanju.com/complete/rebirthend?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -241,22 +238,22 @@
     {
       "url": "https://yhmanju.com/complete/romanceend?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结-爱情完结 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 24
+      "linked_dramas": 20
     },
     {
       "url": "https://yhmanju.com/complete/xianxiaend?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结-仙侠完结 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 26
+      "linked_dramas": 23
     },
     {
       "url": "https://yhmanju.com/complete/xuanhuanend?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结-玄幻完结 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 24
+      "linked_dramas": 15
     },
     {
       "url": "https://yhmanju.com/malechannel?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "男频短剧推荐 - 热血逆袭与玄幻修仙 | 樱花漫剧",
-      "linked_dramas": 26
+      "linked_dramas": 25
     },
     {
       "url": "https://yhmanju.com/femalechannel?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -266,27 +263,27 @@
     {
       "url": "https://yhmanju.com/updates?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "热播榜短剧 - 樱花漫剧",
-      "linked_dramas": 15
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/updates/dailyupdate?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "近期更新短剧 - 最近上架与追剧推荐 | 樱花漫剧",
-      "linked_dramas": 19
+      "linked_dramas": 22
     },
     {
       "url": "https://yhmanju.com/updates/recentcomplete?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "热播榜短剧 - 樱花漫剧",
-      "linked_dramas": 20
+      "linked_dramas": 24
     },
     {
       "url": "https://yhmanju.com/updates/weeklynew?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "更新-本周上新 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 26
+      "linked_dramas": 15
     },
     {
       "url": "https://yhmanju.com/drama/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结精选短剧 - 热门完整剧集 | 樱花漫剧",
-      "linked_dramas": 26
+      "linked_dramas": 24
     },
     {
       "url": "https://yhmanju.com/drama/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -296,27 +293,27 @@
     {
       "url": "https://yhmanju.com/drama/dailynew/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "近期上新短剧 - 新剧推荐 | 樱花漫剧",
-      "linked_dramas": 15
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/drama/dailynew/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "近期上新短剧 - 新剧推荐 | 樱花漫剧",
-      "linked_dramas": 24
+      "linked_dramas": 23
     },
     {
       "url": "https://yhmanju.com/drama/dailynew/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "近期上新短剧 - 新剧推荐 | 樱花漫剧",
-      "linked_dramas": 25
+      "linked_dramas": 24
     },
     {
       "url": "https://yhmanju.com/drama/dailynew/page/5?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "近期上新短剧 - 新剧推荐 | 樱花漫剧",
-      "linked_dramas": 20
+      "linked_dramas": 23
     },
     {
       "url": "https://yhmanju.com/drama/highcomplete/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结精选短剧 - 热门完整剧集 | 樱花漫剧",
-      "linked_dramas": 15
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/drama/highcomplete/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -324,14 +321,9 @@
       "linked_dramas": 0
     },
     {
-      "url": "https://yhmanju.com/drama/highcomplete/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
-      "title": "完结精选短剧 - 热门完整剧集 | 樱花漫剧",
-      "linked_dramas": 0
-    },
-    {
       "url": "https://yhmanju.com/drama/serial/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "追剧精选 - 热门短剧与完结全集 | 樱花漫剧",
-      "linked_dramas": 25
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/drama/serial/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -341,27 +333,27 @@
     {
       "url": "https://yhmanju.com/drama/hot/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "漫剧-热门推荐 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 25
+      "linked_dramas": 20
     },
     {
       "url": "https://yhmanju.com/drama/hot/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "漫剧-热门推荐 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 23
+      "linked_dramas": 15
     },
     {
       "url": "https://yhmanju.com/drama/hot/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "漫剧-热门推荐 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 25
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/drama/hot/page/5?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "漫剧-热门推荐 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 15
+      "linked_dramas": 20
     },
     {
       "url": "https://yhmanju.com/rankings/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-新作榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 15
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/rankings/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -369,14 +361,9 @@
       "linked_dramas": 0
     },
     {
-      "url": "https://yhmanju.com/rankings/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
-      "title": "榜单-新作榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 0
-    },
-    {
       "url": "https://yhmanju.com/rankings/collectrank/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-收藏榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 26
+      "linked_dramas": 24
     },
     {
       "url": "https://yhmanju.com/rankings/collectrank/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -384,19 +371,14 @@
       "linked_dramas": 0
     },
     {
-      "url": "https://yhmanju.com/rankings/collectrank/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
-      "title": "榜单-收藏榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 0
-    },
-    {
       "url": "https://yhmanju.com/rankings/hotrank/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-热播榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 15
+      "linked_dramas": 20
     },
     {
       "url": "https://yhmanju.com/rankings/hotrank/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-热播榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 24
+      "linked_dramas": 15
     },
     {
       "url": "https://yhmanju.com/rankings/hotrank/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -406,12 +388,12 @@
     {
       "url": "https://yhmanju.com/rankings/hotrank/page/5?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-热播榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 20
+      "linked_dramas": 15
     },
     {
       "url": "https://yhmanju.com/rankings/newrank/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-新作榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 15
+      "linked_dramas": 24
     },
     {
       "url": "https://yhmanju.com/rankings/newrank/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -421,15 +403,10 @@
     {
       "url": "https://yhmanju.com/rankings/ratingrank/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-好评榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 20
+      "linked_dramas": 24
     },
     {
       "url": "https://yhmanju.com/rankings/ratingrank/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
-      "title": "榜单-好评榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 0
-    },
-    {
-      "url": "https://yhmanju.com/rankings/ratingrank/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-好评榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
       "linked_dramas": 0
     },
@@ -446,7 +423,7 @@
     {
       "url": "https://yhmanju.com/genre/fantasy/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "奇幻短剧大全｜幻想冒险与奇幻故事 - 樱花漫剧",
-      "linked_dramas": 24
+      "linked_dramas": 25
     },
     {
       "url": "https://yhmanju.com/genre/fantasy/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -454,17 +431,17 @@
       "linked_dramas": 0
     },
     {
-      "url": "https://yhmanju.com/genre/fantasy/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
-      "title": "奇幻短剧大全｜幻想冒险与奇幻故事 - 樱花漫剧",
-      "linked_dramas": 0
-    },
-    {
       "url": "https://yhmanju.com/genre/modern/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "题材-现代 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 25
+      "linked_dramas": 20
     },
     {
       "url": "https://yhmanju.com/genre/modern/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
+      "title": "题材-现代 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
+      "linked_dramas": 0
+    },
+    {
+      "url": "https://yhmanju.com/genre/modern/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "题材-现代 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
       "linked_dramas": 0
     },
@@ -479,9 +456,14 @@
       "linked_dramas": 0
     },
     {
+      "url": "https://yhmanju.com/genre/rebirth/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
+      "title": "题材-重生 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
+      "linked_dramas": 0
+    },
+    {
       "url": "https://yhmanju.com/genre/romance/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "题材-爱情 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 23
+      "linked_dramas": 24
     },
     {
       "url": "https://yhmanju.com/genre/romance/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -491,7 +473,7 @@
     {
       "url": "https://yhmanju.com/genre/xianxia/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "题材-仙侠 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 24
+      "linked_dramas": 20
     },
     {
       "url": "https://yhmanju.com/genre/xianxia/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -511,7 +493,7 @@
     {
       "url": "https://yhmanju.com/complete/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "奇幻完结短剧全集 - 热门奇幻与穿越剧 | 樱花漫剧",
-      "linked_dramas": 24
+      "linked_dramas": 15
     },
     {
       "url": "https://yhmanju.com/complete/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -531,7 +513,7 @@
     {
       "url": "https://yhmanju.com/complete/modernend/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结-现代完结 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 26
+      "linked_dramas": 25
     },
     {
       "url": "https://yhmanju.com/complete/modernend/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -551,7 +533,7 @@
     {
       "url": "https://yhmanju.com/complete/romanceend/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结-爱情完结 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 24
+      "linked_dramas": 20
     },
     {
       "url": "https://yhmanju.com/complete/romanceend/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -561,7 +543,7 @@
     {
       "url": "https://yhmanju.com/complete/xianxiaend/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结-仙侠完结 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 25
+      "linked_dramas": 20
     },
     {
       "url": "https://yhmanju.com/complete/xianxiaend/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -571,7 +553,7 @@
     {
       "url": "https://yhmanju.com/complete/xuanhuanend/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "完结-玄幻完结 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 23
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/complete/xuanhuanend/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -579,14 +561,19 @@
       "linked_dramas": 0
     },
     {
+      "url": "https://yhmanju.com/complete/xuanhuanend/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
+      "title": "完结-玄幻完结 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
+      "linked_dramas": 0
+    },
+    {
       "url": "https://yhmanju.com/malechannel/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "男频短剧推荐 - 热血逆袭与玄幻修仙 | 樱花漫剧",
-      "linked_dramas": 26
+      "linked_dramas": 23
     },
     {
       "url": "https://yhmanju.com/malechannel/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "男频短剧推荐 - 热血逆袭与玄幻修仙 | 樱花漫剧",
-      "linked_dramas": 24
+      "linked_dramas": 25
     },
     {
       "url": "https://yhmanju.com/malechannel/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -606,7 +593,7 @@
     {
       "url": "https://yhmanju.com/updates/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "热播榜短剧 - 樱花漫剧",
-      "linked_dramas": 26
+      "linked_dramas": 15
     },
     {
       "url": "https://yhmanju.com/updates/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -614,34 +601,29 @@
       "linked_dramas": 0
     },
     {
-      "url": "https://yhmanju.com/updates/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
-      "title": "热播榜短剧 - 樱花漫剧",
-      "linked_dramas": 0
-    },
-    {
       "url": "https://yhmanju.com/updates/dailyupdate/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "近期更新短剧 - 最近上架与追剧推荐 | 樱花漫剧",
-      "linked_dramas": 24
+      "linked_dramas": 20
     },
     {
       "url": "https://yhmanju.com/updates/dailyupdate/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "近期更新短剧 - 最近上架与追剧推荐 | 樱花漫剧",
-      "linked_dramas": 24
+      "linked_dramas": 25
     },
     {
       "url": "https://yhmanju.com/updates/dailyupdate/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "近期更新短剧 - 最近上架与追剧推荐 | 樱花漫剧",
-      "linked_dramas": 24
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/updates/dailyupdate/page/5?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "近期更新短剧 - 最近上架与追剧推荐 | 樱花漫剧",
-      "linked_dramas": 26
+      "linked_dramas": 23
     },
     {
       "url": "https://yhmanju.com/updates/recentcomplete/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "热播榜短剧 - 樱花漫剧",
-      "linked_dramas": 23
+      "linked_dramas": 20
     },
     {
       "url": "https://yhmanju.com/updates/recentcomplete/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -651,7 +633,7 @@
     {
       "url": "https://yhmanju.com/updates/weeklynew/page/2?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "更新-本周上新 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 15
+      "linked_dramas": 20
     },
     {
       "url": "https://yhmanju.com/updates/weeklynew/page/3?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
@@ -659,28 +641,28 @@
       "linked_dramas": 0
     },
     {
+      "url": "https://yhmanju.com/updates/weeklynew/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
+      "title": "更新-本周上新 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
+      "linked_dramas": 0
+    },
+    {
       "url": "https://yhmanju.com/drama/dailynew/page/6?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "近期上新短剧 - 新剧推荐 | 樱花漫剧",
-      "linked_dramas": 24
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/drama/hot/page/6?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "漫剧-热门推荐 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 15
+      "linked_dramas": 26
     },
     {
       "url": "https://yhmanju.com/rankings/hotrank/page/6?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
       "title": "榜单-热播榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 15
+      "linked_dramas": 23
     },
     {
-      "url": "https://yhmanju.com/rankings/newrank/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
-      "title": "榜单-新作榜 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 0
-    },
-    {
-      "url": "https://yhmanju.com/genre/rebirth/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
-      "title": "题材-重生 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
+      "url": "https://yhmanju.com/complete/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
+      "title": "奇幻完结短剧全集 - 热门奇幻与穿越剧 | 樱花漫剧",
       "linked_dramas": 0
     },
     {
@@ -689,14 +671,14 @@
       "linked_dramas": 0
     },
     {
-      "url": "https://yhmanju.com/updates/dailyupdate/page/6?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
-      "title": "近期更新短剧 - 最近上架与追剧推荐 | 樱花漫剧",
-      "linked_dramas": 15
+      "url": "https://yhmanju.com/updates/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
+      "title": "热播榜短剧 - 樱花漫剧",
+      "linked_dramas": 0
     },
     {
-      "url": "https://yhmanju.com/updates/weeklynew/page/4?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
-      "title": "更新-本周上新 - 樱花漫剧｜国产短剧与漫剧在线观看_热门内容每日更新",
-      "linked_dramas": 0
+      "url": "https://yhmanju.com/updates/dailyupdate/page/6?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site",
+      "title": "近期更新短剧 - 最近上架与追剧推荐 | 樱花漫剧",
+      "linked_dramas": 23
     }
   ],
   "errors": [],
