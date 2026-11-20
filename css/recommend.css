@@ -31,3 +31,17 @@
 .guide-steps li,.guide-list li{margin:10px 0}
 .guide-list a{color:#d5c8fa;border-bottom:1px solid #77628e}
 @media(max-width:680px){.recommend-guide-links{padding:0 18px 18px;font-size:13px}.guide-page h2{font-size:20px}.guide-steps,.guide-list{font-size:14px}}
+
+.friend-topics{max-width:1800px;margin:0 auto 32px;padding:24px 0 8px;color:#cfc8f7}
+.friend-topics h2{margin:0 0 12px;font-size:26px;color:#fff;font-weight:500}
+.friend-topics>p{margin:0 0 18px;font-size:16px;line-height:1.7}
+.friend-topics-col{margin:0 0 16px}
+.friend-topics-col h3{margin:0 0 8px;font-size:18px;font-weight:500}
+.friend-topics-col h3 a{color:#d5c8fa;border-bottom:1px solid #77628e}
+.friend-topics-col ul{margin:0;padding-left:1.3em;line-height:1.9}
+.friend-topics-col a,.friend-topics-more a{color:#d5c8fa;border-bottom:1px solid #77628e}
+.friend-topics-more{margin:12px 0 0}
+.friend-topic-page .friend-topic-meta{color:#b7afd8;font-size:0.92em}
+.friend-topic-page .friend-topic-cta{margin:20px 0}
+.friend-topic-page .friend-topic-note{margin:28px 0 0;color:#b7afd8;font-size:14px;line-height:1.8}
+@media(max-width:680px){.friend-topics{padding:0 18px 8px}.friend-topics h2{font-size:20px}.friend-topics>p,.friend-topics-col{font-size:14px}}

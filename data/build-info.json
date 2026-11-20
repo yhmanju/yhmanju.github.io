@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:22:06+08:00",
+  "generated_at": "2026-11-20T12:23:08+08:00",
   "timezone": "Asia/Shanghai",
   "drama_count": 618,
   "cover_count": 618,
@@ -695,6 +695,7 @@
     "站点根目录放置 IndexNow 密钥文件，部署后可由 submit_indexnow.py 提交 sitemap。",
     "未执行浏览器像素级截图比对，不承诺已达到逐像素一致。",
     "数据仅是采集样本，不是官网完整剧库。",
-    "全站页脚与首页均有「友情链接」：黄果短剧（https://huangguomax.com/ 与 https://huangguoduanju.net/）、红豆短剧、红豆应用、樱花漫剧、51动漫；普通 a href，不加 nofollow。"
+    "全站页脚与首页均有「友情链接」：黄果短剧（https://huangguomax.com/?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site 与 https://huangguoduanju.net/）、红豆短剧、红豆应用、樱花漫剧、51动漫；普通?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site a href，不加 nofollow。",
+    "2026-11-20 起增加「友情推荐专题」（/friends/ 及下属独立导览页），重点介绍黄果短剧与红豆短剧、红豆应用官网上的公开栏目和作品；观看请前往对应官网。"
   ]
 }
