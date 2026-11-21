@@ -6,6 +6,7 @@
 - 追剧指南：https://yhmanju.github.io/guide/
 - 完结热门合集：https://yhmanju.github.io/collections/ （按官网热播榜、评分榜整理已完结剧目）
 - 官网：https://yhmanju.com/?utm_source=yhmanju_github&utm_medium=referral
+- 姊妹找片站「樱花找剧」：https://yhzhaoju.pages.dev/?utm_source=yhmanju_github&utm_medium=referral&utm_campaign=recommend_site （完结短剧找片与原创解读，按题材挑片）
 - 镜像：
   - https://yhmanju.codeberg.page/
   - https://yhmanju.pages.dev/
@@ -25,3 +26,4 @@
 - [红豆应用](https://hongdouapp.com/)
 - [樱花漫剧](https://yhmanju.com/)
 - [51动漫](https://51dmdm.me/)
+- [樱花找剧](https://yhzhaoju.pages.dev/)
