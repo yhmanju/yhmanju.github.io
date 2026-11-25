@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 40
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - name: Prepare site
@@ -29,7 +29,20 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: /tmp/site
+      # 2026-11-25：11-24、11-25 两次运行在制品刚上传后立即部署，报 "No artifacts named github-pages"。
+      # 先等 20 秒再部署；首次失败时再等 45 秒重试一次。
+      - name: Wait for artifact
+        run: sleep 20
       - id: deployment
+        continue-on-error: true
         uses: actions/deploy-pages@v4
         with:
-          timeout: 1800000
+          timeout: 600000
+      - name: Wait before retry
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 45
+      - id: deployment_retry
+        if: steps.deployment.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 600000
